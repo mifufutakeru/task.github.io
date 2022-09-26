@@ -14,6 +14,5 @@
          <body>
           <p style="text-align:center"><button>登録</button>
           <p style="text-align:center"><button>一覧</button>
-         </body>
         </p>
   
