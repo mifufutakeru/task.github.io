@@ -1,5 +1,4 @@
-# task.github.io
-<!DOCTYPE html>
+# TOPページ
 <html lang="ja">
   <head>
     <meta charset="utf-8" />
