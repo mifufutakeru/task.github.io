@@ -16,7 +16,4 @@
           <p style="text-align:center"><button>一覧</button>
          </body>
         </p>
-      </form>
-    </div>
-  </body>
-</html>
+  
